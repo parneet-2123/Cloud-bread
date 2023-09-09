@@ -10,3 +10,7 @@ We saw this as an opportunity to make a difference. By connecting food banks and
 
 # How to use 
 Click on donate button in our website so that you will be redirected to our chat portal..
+
+# Pictures of our Website/Android Application
+![image](https://github.com/parneet-2123/Zero-Hunger/assets/88923965/9ad5c0e2-ae69-4baf-ae68-f9567eb3ee17)
+![image](https://github.com/parneet-2123/Zero-Hunger/assets/88923965/67374721-80f6-4f20-8c9d-b0bcd9b97d47)
