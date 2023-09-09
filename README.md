@@ -7,3 +7,6 @@ Food waste is a significant issue in our world today. Every year, billions of po
 # Solution
 
 We saw this as an opportunity to make a difference. By connecting food banks and restaurants, we can help reduce food waste and provide meals to those in need. The food is further divided into three parts.. 1. edible food is donated 2. rotten food is decomposed to make soil which is further sold to farmers at a cheap price 3. Vegetable peels are converted to make paper.. ex:- 5 vegetable peels are converted to make 1 paper.. Our platform, Zero Hunger, was created to address this problem and help achieve the United Nations Sustainable Development Goal 2: Zero Hunger.
+
+# How to use 
+Click on donate button in our site to use chat system
